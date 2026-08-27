@@ -1,0 +1,9 @@
+﻿node_modules/
+dist/
+build/
+release/
+*.exe
+*.zip
+*.dmg
+*.AppImage
+mac-build/
